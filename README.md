@@ -1,5 +1,5 @@
-# anime_rename
-Renames Anime using a Deno script.
+# Show Renamer
+Renames downloaded anime or shows using a Deno script.
 
 ## Usage
 deno run --allow-read --allow-write rename.ts <directory>
